@@ -1,0 +1,15 @@
+﻿生成启动时间为 2017/5/9 15:44:59。
+     1>项目“F:\2017.04 ZTE算法比赛\初赛\提交的代码\optimal path based on ACO\optimal path based on ACO\optimal path based on ACO.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\aco2.cpp
+         aco2.cpp
+     1>f:\2017.04 zte算法比赛\初赛\提交的代码\aco2.cpp(26): warning C4101: “j1”: 未引用的局部变量
+     1>f:\2017.04 zte算法比赛\初赛\提交的代码\aco2.cpp(52): warning C4101: “t”: 未引用的局部变量
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\2017.04 ZTE算法比赛\初赛\提交的代码\optimal path based on ACO\Debug\optimal path based on ACO.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\2017.04 ZTE算法比赛\初赛\提交的代码\optimal path based on ACO\Debug\optimal path based on ACO.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\2017.04 ZTE算法比赛\初赛\提交的代码\optimal path based on ACO\Debug\optimal path based on ACO.lib" /MACHINE:X86 Debug\aco2.obj
+         optimal path based on ACO.vcxproj -> F:\2017.04 ZTE算法比赛\初赛\提交的代码\optimal path based on ACO\Debug\optimal path based on ACO.exe
+     1>已完成生成项目“F:\2017.04 ZTE算法比赛\初赛\提交的代码\optimal path based on ACO\optimal path based on ACO\optimal path based on ACO.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.81
